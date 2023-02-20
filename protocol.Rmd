@@ -1,0 +1,66 @@
+---
+title: "LIPS Protocol"
+author: "David Simons"
+date: "2023-02-16"
+output: pdf_document
+---
+
+# Material and reagents required
+
+
+# Sample selection
+
+
+# Method
+
+This is the approach required for a full plate of samples, volumes can be adapted if smaller sets of samples are being run.
+
+1. Dissolve 2 protease inhibitor tablets in 10ml of IP10 buffer (Label IP10+)
+
+## For controls (ELISA)
+
+2. Add 71.6µl of IP10+ buffer + 3.4µl of lysate(NP) per well
+
+3. Transfer 25µl of control to each well
+
+## For Samples
+
+4. Add 94.6µl of IP10+ buffer + 3.4µl of lysate(NP) per well
+
+5. Transfer 2µl of sample to each well
+
+## First incubation
+
+6. Incubate for 1hr at 25 at 180rpm
+
+## Prepare beads
+
+7. 5µl of A/G resin is required for each well. Measure and transfer the total amount into a 1.5ml eppendorf tube, mark on the side of the tube this volume.
+
+8. Wash 3x with 500µl of IP10 at 10,000 rpm for 3mins to remove preservative from beads.
+
+9. Reconstitute the volume using IP10 up to the line previously drawn.
+
+10. Add 5µl/well of A/G ultrabeads to multiscreen plate, make sure to mix the tube regularly to prevent settling of the beads. (Note: Use the cut end of a p20 pippette tip)
+
+11. Transfer 130µl of the incubated sample + IP10+ into each well of the multiscreen plate containing the beads.
+
+## Second incubation
+
+11. Incubate for 1hr at 25°c at 180rpm
+
+12. Wash plate 8x with IP10 using 100µl/well over the vacuum aspirator
+
+13. Wash plate 2x with 1xPBS using 100µl/well over the vacuum aspirator
+
+14. Blot the plate dry on paper towel
+
+15. Prepare Luciferase Substrate. For 96 wells, add 52 µl of substrate to 5200 µl of substrate buffer.
+
+16. Add 50 µl/well of prepared luciferase substrate
+
+16. Incubate at room temperature for 10mins
+
+17. Read plate on the Glomax.
+
+18. Export the results using the standard settings. This will save the document on the desktop of the attached pad. The pad can be connected to the internet to share the results file.
